@@ -10,3 +10,7 @@ Cette section contient des exercices pratiques axés sur la capture et l'analyse
 - HTTPS/TLS
 - Analyse de paquets
 - Dépannage réseau
+
+02-wireshark/
+└── http-https-analysis/
+README.md
