@@ -167,4 +167,4 @@ Pour un analyste SOC, comprendre à la fois le **contenu du trafic réseau** et 
 
 La capture d'écran suivante montre le trafic réseau capturé avec tcpdump.
 
-![Capture tcpdump](https://github.com/lazalefulgence-debug/cyberops-soc-portfolio-/blob/main/01-networking/02-wireshark/Capture%20d'%C3%A9cran%202026-10-04%20215735.png)
+![Capture tcpdump](https://github.com/lazalefulgence-debug/cyberops-soc-portfolio-/blob/main/01-networking/02-wireshark/Capture%20d'%C3%A9cran%202026-10-04%20215407.png)
