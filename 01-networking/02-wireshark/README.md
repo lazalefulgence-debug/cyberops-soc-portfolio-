@@ -179,4 +179,4 @@ La capture d'écran suivante montre le trafic réseau capturé dans Wireshark.
 
 La capture d'écran suivante montre du trafic TLS capturé avec Wireshark.
 
-![Analyse HTTPS avec Wireshark]()
+![Analyse HTTPS avec Wireshark](https://github.com/lazalefulgence-debug/cyberops-soc-portfolio-/blob/main/01-networking/02-wireshark/Capture%20d'%C3%A9cran%202026-10-04%20221649.png)
