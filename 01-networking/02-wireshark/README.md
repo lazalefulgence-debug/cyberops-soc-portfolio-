@@ -161,3 +161,10 @@ Grâce à ce laboratoire, j'ai appris à :
 > **HTTPS protège la communication, mais ne garantit pas que la destination elle-même est fiable.**
 
 Pour un analyste SOC, comprendre à la fois le **contenu du trafic réseau** et les **métadonnées entourant les communications chiffrées** est essentiel pour détecter toute activité suspecte.
+
+
+## 📸 Capture de paquets
+
+La capture d'écran suivante montre le trafic réseau capturé avec tcpdump.
+
+![Capture tcpdump](screenshots/tcpdump-capture.png)
