@@ -174,3 +174,9 @@ La capture d'écran suivante montre le trafic réseau capturé avec tcpdump.
 La capture d'écran suivante montre le trafic réseau capturé dans Wireshark.
 
 ![Analyse HTTP Wireshark](https://github.com/lazalefulgence-debug/cyberops-soc-portfolio-/blob/main/01-networking/02-wireshark/Capture%20d'%C3%A9cran%202026-10-04%20215407.png)
+
+## 🔐 Analyse HTTPS/TLS
+
+La capture d'écran suivante montre du trafic TLS capturé avec Wireshark.
+
+![Analyse HTTPS avec Wireshark]()
